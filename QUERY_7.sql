@@ -1,0 +1,1 @@
+-- Task "Вивести унікальні значення для кожної колонки, що містить текстові значення. (SELECT DISTINCT column_name FROM salaries)"
